@@ -1,0 +1,59 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/gravity-edds/Thumbnail.jpg",
+      "size": 15077,
+      "date": 132443839628239003
+    },
+    {
+      "path": "MaterialLibs/materials/Library.xml",
+      "size": 1819,
+      "date": 132447259034720492
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/EDDS-TAXIWAYMARK-M.PNG.DDS",
+      "size": 699236,
+      "date": 132447259037386890
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/edds-taxiwaymark-m.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132447246877066936
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/EDDS-TAXIWAYMARK-M.PNG.DDS.json",
+      "size": 232,
+      "date": 132447259037212278
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/GRAVITY-LOGO.PNG.DDS",
+      "size": 13893760,
+      "date": 132447259035149070
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/gravity-logo.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132446716534924268
+    },
+    {
+      "path": "MaterialLibs/materials/Textures/GRAVITY-LOGO.PNG.DDS.json",
+      "size": 249,
+      "date": 132447259035029403
+    },
+    {
+      "path": "scenery/EDDS-SHAPE.BGL",
+      "size": 7090,
+      "date": 132447259034570620
+    },
+    {
+      "path": "scenery/EDDS.bgl",
+      "size": 180747,
+      "date": 132447259033866381
+    },
+    {
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 45239414,
+      "date": 132447259041845274
+    }
+  ]
+}
