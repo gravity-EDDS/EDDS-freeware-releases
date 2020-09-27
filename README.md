@@ -10,7 +10,7 @@ If you experience any problems, have feature requests or any other types of impr
 
 ## Installation
 Please follow these instructions to add the airport to the simulator:
-1. Click here to download the files: [Download Stuttgart Airport](https://github.com/gravity-EDDS/EDDS-freeware-releases/archive/0.1.zip).
+1. Click here to download the files: [Download Stuttgart Airport](https://github.com/gravity-EDDS/EDDS-freeware-releases/archive/0.1b.zip).
 
    You can also check the [releases](https://github.com/gravity-EDDS/EDDS-freeware-releases/releases) for other versions.
 2. Unzip the downloaded files.
