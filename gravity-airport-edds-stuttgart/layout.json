@@ -1,0 +1,279 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/gravity-airport-edds-stuttgart/Thumbnail.jpg",
+      "size": 15077,
+      "date": 132496557820000000
+    },
+    {
+      "path": "scenery/EDDS-SHAPE.BGL",
+      "size": 4951,
+      "date": 132498417601387410
+    },
+    {
+      "path": "scenery/EDDS.bgl",
+      "size": 364192,
+      "date": 132498417601112031
+    },
+    {
+      "path": "scenery/materials/Library.xml",
+      "size": 1820,
+      "date": 132498417601646320
+    },
+    {
+      "path": "scenery/materials/TEXTURE/EDDSGROUNDMARKS2.PNG.DDS",
+      "size": 16777344,
+      "date": 132498417602207627
+    },
+    {
+      "path": "scenery/materials/TEXTURE/EDDSgroundmarks2.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132496557820000000
+    },
+    {
+      "path": "scenery/materials/TEXTURE/EDDSGROUNDMARKS2.PNG.DDS.json",
+      "size": 249,
+      "date": 132498417602097698
+    },
+    {
+      "path": "scenery/materials/TEXTURE/GRAVITY-LOGO.PNG.DDS",
+      "size": 13893760,
+      "date": 132498417602586660
+    },
+    {
+      "path": "scenery/materials/TEXTURE/gravity-logo.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132496557820000000
+    },
+    {
+      "path": "scenery/materials/TEXTURE/GRAVITY-LOGO.PNG.DDS.json",
+      "size": 249,
+      "date": 132498417602496897
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/AIRPORTPARKINGSPACE.PNG.DDS",
+      "size": 1398256,
+      "date": 132498417678332831
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/AIRPORTPARKINGSPACE.PNG.DDS.json",
+      "size": 119,
+      "date": 132498417678312878
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CHIMNEY-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132498417655965530
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CHIMNEY-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132498417655955557
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CHIMNEY-RGB.PNG.DDS",
+      "size": 349700,
+      "date": 132498417669623567
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CHIMNEY-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132498417669603615
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CRASHBARRIER-ALBEDO.PNG.DDS",
+      "size": 22000,
+      "date": 132498417653673235
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CRASHBARRIER-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132498417653663263
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-DOWNPIPES-ALBEDO.PNG.DDS",
+      "size": 22000,
+      "date": 132498417655496783
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-DOWNPIPES-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132498417655486809
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-DOWNPIPES-RGB.PNG.DDS",
+      "size": 22020,
+      "date": 132498417653564251
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-DOWNPIPES-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132498417653553556
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS4TO6-ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132498417660162280
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS4TO6-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132498417660122386
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS7TO9-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132498417664547286
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS7TO9-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132498417664522118
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS7TO9-NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132498417666581920
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS7TO9-NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132498417666492160
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132498417663235296
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132498417663035834
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-EMISSIVE.PNG.DDS",
+      "size": 699192,
+      "date": 132498417655367105
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-EMISSIVE.PNG.DDS.json",
+      "size": 102,
+      "date": 132498417655357129
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-RGB.PNG.DDS",
+      "size": 1398276,
+      "date": 132498417676945888
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132498417676924826
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-SMALLFLOODLIGHT-ALBEDO.PNG.DDS",
+      "size": 11064,
+      "date": 132498417653802912
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-SMALLFLOODLIGHT-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132498417653792941
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-SMALLFLOODLIGHT-EMISSIVE.PNG.DDS",
+      "size": 22000,
+      "date": 132498417653932567
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-SMALLFLOODLIGHT-EMISSIVE.PNG.DDS.json",
+      "size": 119,
+      "date": 132498417653922594
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/GEBAUDETEXTRURES01.PNG.DDS",
+      "size": 11184952,
+      "date": 132498417651858086
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/GEBAUDETEXTRURES01.PNG.DDS.json",
+      "size": 102,
+      "date": 132498417651768323
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_0.PNG.DDS",
+      "size": 476416,
+      "date": 132498417606836009
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_0.PNG.DDS.json",
+      "size": 119,
+      "date": 132498417606816061
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_1.PNG.DDS",
+      "size": 60664,
+      "date": 132498417603803996
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_1.PNG.DDS.json",
+      "size": 102,
+      "date": 132498417603794024
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_2.PNG.DDS",
+      "size": 699192,
+      "date": 132498417606117932
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_2.PNG.DDS.json",
+      "size": 102,
+      "date": 132498417606097980
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_3.PNG.DDS",
+      "size": 853856,
+      "date": 132498417603514778
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_3.PNG.DDS.json",
+      "size": 119,
+      "date": 132498417603494826
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_4.PNG.DDS",
+      "size": 2796344,
+      "date": 132498417611922136
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_4.PNG.DDS.json",
+      "size": 102,
+      "date": 132498417611892216
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_5.PNG.DDS",
+      "size": 240664,
+      "date": 132498417604522190
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/IMAGE_5.PNG.DDS.json",
+      "size": 102,
+      "date": 132498417604502243
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/ROOFTOPS-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132498417661588465
+    },
+    {
+      "path": "scenery/MODELLIB/TEXTURE/ROOFTOPS-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132498417661568517
+    },
+    {
+      "path": "scenery/MODELLIB/modelLib.BGL",
+      "size": 61000134,
+      "date": 132498417704655638
+    }
+  ]
+}
