@@ -14,7 +14,7 @@ Please follow these instructions to add the airport to the simulator:
 
    You can also check the [releases](https://github.com/gravity-EDDS/EDDS-freeware-releases/releases) for other versions.
 2. Unzip the downloaded files.
-3. Insert the "gravity-edds" folder into your MSFS2020 Community Folder
+3. Insert the "gravity-airport-edds-stuttgart" folder into your MSFS2020 Community Folder
 
    The folder is, depending on the store where you bought it in the following directories:
    * Steam: `C:\Users\YOUR_USERNAME\AppData\Roaming\Microsoft Flight Simulator\Packages\Community`
