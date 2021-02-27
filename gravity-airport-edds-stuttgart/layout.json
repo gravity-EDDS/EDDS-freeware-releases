@@ -1,279 +1,1154 @@
 {
   "content": [
     {
+      "path": "CGL/120/sai221.cgl",
+      "size": 305955911,
+      "date": 132589056773239633
+    },
+    {
       "path": "ContentInfo/gravity-airport-edds-stuttgart/Thumbnail.jpg",
       "size": 15077,
-      "date": 132496557820000000
+      "date": 132498465881856595
     },
     {
-      "path": "scenery/EDDS-SHAPE.BGL",
-      "size": 4951,
-      "date": 132498417601387410
-    },
-    {
-      "path": "scenery/EDDS.bgl",
-      "size": 364192,
-      "date": 132498417601112031
-    },
-    {
-      "path": "scenery/materials/Library.xml",
+      "path": "MaterialLibs/EDDS_Materials/Library.xml",
       "size": 1820,
-      "date": 132498417601646320
+      "date": 132589067833231129
     },
     {
-      "path": "scenery/materials/TEXTURE/EDDSGROUNDMARKS2.PNG.DDS",
-      "size": 16777344,
-      "date": 132498417602207627
+      "path": "MaterialLibs/EDDS_Materials/TEXTURE/EDDSGROUNDMARKS2.PNG.DDS",
+      "size": 5592580,
+      "date": 132589067841441663
     },
     {
-      "path": "scenery/materials/TEXTURE/EDDSgroundmarks2.png.DDS.FLAGS",
+      "path": "MaterialLibs/EDDS_Materials/TEXTURE/EDDSgroundmarks2.png.DDS.FLAGS",
       "size": 39,
-      "date": 132496557820000000
+      "date": 132509745535916310
     },
     {
-      "path": "scenery/materials/TEXTURE/EDDSGROUNDMARKS2.PNG.DDS.json",
+      "path": "MaterialLibs/EDDS_Materials/TEXTURE/EDDSGROUNDMARKS2.PNG.DDS.json",
       "size": 249,
-      "date": 132498417602097698
+      "date": 132589067841371581
     },
     {
-      "path": "scenery/materials/TEXTURE/GRAVITY-LOGO.PNG.DDS",
-      "size": 13893760,
-      "date": 132498417602586660
+      "path": "MaterialLibs/EDDS_Materials/TEXTURE/GRAVITY-LOGO.PNG.DDS",
+      "size": 4631940,
+      "date": 132589067847726721
     },
     {
-      "path": "scenery/materials/TEXTURE/gravity-logo.png.DDS.FLAGS",
+      "path": "MaterialLibs/EDDS_Materials/TEXTURE/gravity-logo.png.DDS.FLAGS",
       "size": 39,
-      "date": 132496557820000000
+      "date": 132509745535936308
     },
     {
-      "path": "scenery/materials/TEXTURE/GRAVITY-LOGO.PNG.DDS.json",
+      "path": "MaterialLibs/EDDS_Materials/TEXTURE/GRAVITY-LOGO.PNG.DDS.json",
       "size": 249,
-      "date": 132498417602496897
+      "date": 132589067847666601
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/AIRPORTPARKINGSPACE.PNG.DDS",
-      "size": 1398256,
-      "date": 132498417678332831
+      "path": "scenery/global/EDDS-SHAPE.BGL",
+      "size": 7284,
+      "date": 132589067832682591
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/AIRPORTPARKINGSPACE.PNG.DDS.json",
-      "size": 119,
-      "date": 132498417678312878
+      "path": "scenery/global/EDDS.bgl",
+      "size": 385708,
+      "date": 132589067831665058
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CHIMNEY-ALBEDO.PNG.DDS",
-      "size": 349680,
-      "date": 132498417655965530
+      "path": "scenery/world/EDDSobjects.BGL",
+      "size": 56023282,
+      "date": 132589068594148391
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CHIMNEY-ALBEDO.PNG.DDS.json",
-      "size": 119,
-      "date": 132498417655955557
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CHIMNEY-RGB.PNG.DDS",
-      "size": 349700,
-      "date": 132498417669623567
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CHIMNEY-RGB.PNG.DDS.json",
-      "size": 191,
-      "date": 132498417669603615
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CRASHBARRIER-ALBEDO.PNG.DDS",
-      "size": 22000,
-      "date": 132498417653673235
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-CRASHBARRIER-ALBEDO.PNG.DDS.json",
-      "size": 119,
-      "date": 132498417653663263
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-DOWNPIPES-ALBEDO.PNG.DDS",
-      "size": 22000,
-      "date": 132498417655496783
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-DOWNPIPES-ALBEDO.PNG.DDS.json",
-      "size": 119,
-      "date": 132498417655486809
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-DOWNPIPES-RGB.PNG.DDS",
-      "size": 22020,
-      "date": 132498417653564251
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-DOWNPIPES-RGB.PNG.DDS.json",
-      "size": 191,
-      "date": 132498417653553556
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS4TO6-ALBEDO.PNG.DDS",
-      "size": 2796344,
-      "date": 132498417660162280
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS4TO6-ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132498417660122386
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS7TO9-ALBEDO.PNG.DDS",
-      "size": 1398256,
-      "date": 132498417664547286
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS7TO9-ALBEDO.PNG.DDS.json",
-      "size": 119,
-      "date": 132498417664522118
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS7TO9-NORMAL.PNG.DDS",
-      "size": 5592560,
-      "date": 132498417666581920
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-HALLS7TO9-NORMAL.PNG.DDS.json",
-      "size": 160,
-      "date": 132498417666492160
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-ALBEDO.PNG.DDS",
-      "size": 699192,
-      "date": 132498417663235296
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132498417663035834
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-EMISSIVE.PNG.DDS",
-      "size": 699192,
-      "date": 132498417655367105
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-EMISSIVE.PNG.DDS.json",
-      "size": 102,
-      "date": 132498417655357129
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-RGB.PNG.DDS",
-      "size": 1398276,
-      "date": 132498417676945888
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-ROLLUPDOORS-RGB.PNG.DDS.json",
-      "size": 191,
-      "date": 132498417676924826
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-SMALLFLOODLIGHT-ALBEDO.PNG.DDS",
-      "size": 11064,
-      "date": 132498417653802912
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-SMALLFLOODLIGHT-ALBEDO.PNG.DDS.json",
-      "size": 102,
-      "date": 132498417653792941
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-SMALLFLOODLIGHT-EMISSIVE.PNG.DDS",
-      "size": 22000,
-      "date": 132498417653932567
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/EDDS-MAINTANANCE-SMALLFLOODLIGHT-EMISSIVE.PNG.DDS.json",
-      "size": 119,
-      "date": 132498417653922594
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/GEBAUDETEXTRURES01.PNG.DDS",
-      "size": 11184952,
-      "date": 132498417651858086
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/GEBAUDETEXTRURES01.PNG.DDS.json",
-      "size": 102,
-      "date": 132498417651768323
-    },
-    {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_0.PNG.DDS",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_0.PNG.DDS",
       "size": 476416,
-      "date": 132498417606836009
+      "date": 132589067856803138
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_0.PNG.DDS.json",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_0.PNG.DDS.json",
       "size": 119,
-      "date": 132498417606816061
+      "date": 132589067856723351
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_1.PNG.DDS",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_1.PNG.DDS",
       "size": 60664,
-      "date": 132498417603803996
+      "date": 132589067848983074
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_1.PNG.DDS.json",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_1.PNG.DDS.json",
       "size": 102,
-      "date": 132498417603794024
+      "date": 132589067848903290
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_2.PNG.DDS",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_2.PNG.DDS",
       "size": 699192,
-      "date": 132498417606117932
+      "date": 132589067858578460
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_2.PNG.DDS.json",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_2.PNG.DDS.json",
       "size": 102,
-      "date": 132498417606097980
+      "date": 132589067858488707
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_3.PNG.DDS",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_3.PNG.DDS",
       "size": 853856,
-      "date": 132498417603514778
+      "date": 132589067850429243
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_3.PNG.DDS.json",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_3.PNG.DDS.json",
       "size": 119,
-      "date": 132498417603494826
+      "date": 132589067850339481
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_4.PNG.DDS",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_4.PNG.DDS",
       "size": 2796344,
-      "date": 132498417611922136
+      "date": 132589067855666173
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_4.PNG.DDS.json",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_4.PNG.DDS.json",
       "size": 102,
-      "date": 132498417611892216
+      "date": 132589067855586387
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_5.PNG.DDS",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_5.PNG.DDS",
       "size": 240664,
-      "date": 132498417604522190
+      "date": 132589067848494377
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/IMAGE_5.PNG.DDS.json",
+      "path": "scenery/world/TEXTURE/EDDS-DHL/IMAGE_5.PNG.DDS.json",
       "size": 102,
-      "date": 132498417604502243
+      "date": 132589067848414597
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/ROOFTOPS-ALBEDO.PNG.DDS",
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-ANTENNAS-ALBEDO.PNG.DDS",
+      "size": 11064,
+      "date": 132589067968217958
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-ANTENNAS-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589067968138169
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-BALCONY-ALBEDO.PNG.DDS",
       "size": 1398256,
-      "date": 132498417661588465
+      "date": 132589068028255957
     },
     {
-      "path": "scenery/MODELLIB/TEXTURE/ROOFTOPS-ALBEDO.PNG.DDS.json",
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-BALCONY-ALBEDO.PNG.DDS.json",
       "size": 119,
-      "date": 132498417661568517
+      "date": 132589068028156222
     },
     {
-      "path": "scenery/MODELLIB/modelLib.BGL",
-      "size": 61000134,
-      "date": 132498417704655638
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CAGES-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068039592277
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CAGES-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068039492542
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CAGES-NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132589067967569699
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CAGES-NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132589067967489906
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CHIMNEY-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068072690419
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CHIMNEY-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068072590688
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CHIMNEY-RGB.PNG.DDS",
+      "size": 1398276,
+      "date": 132589068052970711
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CHIMNEY-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068052920555
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CONTROLROOM-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068070994839
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CONTROLROOM-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068070964918
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CONTROLROOM_GIRDER-ALBEDO.PNG.DDS",
+      "size": 22000,
+      "date": 132589067934692926
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CONTROLROOM_GIRDER-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067934623117
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CONTROLROOM_GRATING-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589068038040624
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CONTROLROOM_GRATING-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068037970806
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CONTROLROOM_INERIOR-ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132589068061630676
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-CONTROLROOM_INERIOR-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068061560858
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-EASTWING-ALBEDO.PNG.DDS",
+      "size": 5592560,
+      "date": 132589068036484789
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-EASTWING-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068036375075
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-EASTWING-RGB.PNG.DDS",
+      "size": 5592580,
+      "date": 132589067992675341
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-EASTWING-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589067992605527
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-GATE_BBQ-ALBEDO.PNG.DDS",
+      "size": 5592560,
+      "date": 132589067882017423
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-GATE_BBQ-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067881907712
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-GATE_BBQ-NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132589068074615272
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-GATE_BBQ-NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132589068074495590
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-GATE_BBQ-RGB.PNG.DDS",
+      "size": 5592580,
+      "date": 132589068014550793
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-GATE_BBQ-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068014490959
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-GROUND-ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132589068086560583
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-GROUND-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068086460853
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-GROUND_TUNNEL-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068088166376
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-GROUND_TUNNEL-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068088076612
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589067971853974
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067971764221
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29-RGB.PNG.DDS",
+      "size": 1398276,
+      "date": 132589067889213399
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589067889163435
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_GATES-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589068067479148
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_GATES-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068067399365
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_GATES-RGB.PNG.DDS",
+      "size": 349700,
+      "date": 132589068066980479
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_GATES-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068066930613
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_ROOF-ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132589068081565284
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_ROOF-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068081505443
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_ROOF-NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132589067956168703
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_ROOF-NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132589067956098883
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_WINDOWS-ALBEDO2.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068078174281
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_WINDOWS-ALBEDO2.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068078084528
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_WINDOWS-RGB.PNG.DDS",
+      "size": 1398276,
+      "date": 132589067966961327
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-HALL29_WINDOWS-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589067966911464
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-LAMP-ALBEDO.PNG.DDS",
+      "size": 43832,
+      "date": 132589068019944901
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-LAMP-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068019934921
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-LAMP-EMISSIVE.PNG.DDS",
+      "size": 43832,
+      "date": 132589067959835261
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-LAMP-EMISSIVE.PNG.DDS.json",
+      "size": 102,
+      "date": 132589067959755477
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAIN_HALL_SUPPORT_BEAM-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589068037252728
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAIN_HALL_SUPPORT_BEAM-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068037232785
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL-ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132589067877061413
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589067876971651
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL-GRATING-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589068030943241
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL-GRATING-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068030863444
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL-NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132589068076658254
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL-NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132589068076558530
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL-RGB.PNG.DDS",
+      "size": 5592580,
+      "date": 132589067955630431
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589067955570313
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_DOORS-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589067934433621
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_DOORS-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067934343859
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_DOORS-RGB.PNG.DDS",
+      "size": 1398276,
+      "date": 132589068046518062
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_DOORS-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068046468201
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_GRATING-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589067894230199
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_GRATING-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067894150419
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_ROOF-ALBEDO_PNG.PNG.DDS",
+      "size": 5592560,
+      "date": 132589067893402410
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_ROOF-ALBEDO_PNG.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067893272762
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_ROOF-NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132589068063615389
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_ROOF-NORMAL.PNG.DDS.json",
+      "size": 177,
+      "date": 132589068063515652
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_SKYLIGHT-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589067993758054
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_SKYLIGHT-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067993678267
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_SKYLIGHT-RGB.PNG.DDS",
+      "size": 1398276,
+      "date": 132589067901185986
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-MAINHALL_SKYLIGHT-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589067901136117
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-OBSTRUCTIONLIGHT-ALBEDO.PNG.DDS",
+      "size": 11064,
+      "date": 132589068053249680
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-OBSTRUCTIONLIGHT-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068053189838
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-OBSTRUCTIONLIGHT-EMISSIVE.PNG.DDS",
+      "size": 11064,
+      "date": 132589067967908783
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-OBSTRUCTIONLIGHT-EMISSIVE.PNG.DDS.json",
+      "size": 102,
+      "date": 132589067967838975
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-OBSTRUCTIONLIGHT-RGB.PNG.DDS",
+      "size": 22020,
+      "date": 132589068030564254
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-OBSTRUCTIONLIGHT-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068030524355
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-OUTERWALLS-ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132589067906023234
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-OUTERWALLS-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589067905913521
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-PIPES_NORTH-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589068069458947
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-PIPES_NORTH-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068069379152
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-PIPES_WEST-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589068078962179
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-PIPES_WEST-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068078892357
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-SINAGE-FW-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589068079819880
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-SINAGE-FW-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068079750073
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-SINAGE_FW-EMISSIVE.PNG.DDS",
+      "size": 174904,
+      "date": 132589067906821100
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-SINAGE_FW-EMISSIVE.PNG.DDS.json",
+      "size": 102,
+      "date": 132589067906741315
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-TUNNELAIRCON-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589067969994097
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-TUNNELAIRCON-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067969914304
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WALLSWALKWAYS-ALBEDO.PNG.DDS",
+      "size": 5592560,
+      "date": 132589067932688207
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WALLSWALKWAYS-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067932588477
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWING-ALBEDO.PNG.DDS",
+      "size": 5592560,
+      "date": 132589068019655673
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWING-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068019575883
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWING-RGB.PNG.DDS",
+      "size": 5592580,
+      "date": 132589067927891313
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWING-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589067927831443
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWING_ROOF_AIRCON-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589068068386728
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWING_ROOF_AIRCON-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068068316911
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWINGROOF-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589067957884441
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWINGROOF-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067957794672
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWINGROOF-RGB.PNG.DDS",
+      "size": 1398276,
+      "date": 132589068027059161
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWINGROOF-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068027009283
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWINGSKYLIGHT-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589067959406418
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWINGSKYLIGHT-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589067959336600
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWINGSKYLIGHT-RGB.PNG.DDS",
+      "size": 1398276,
+      "date": 132589068060314189
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-FIRE-STATION/FFW-WESTWINGSKYLIGHT-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068060274300
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-GAT-OBJECTS-ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 132589068115884299
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-GAT-OBJECTS-ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068115754646
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-GAT-OBJECTS-COMP.PNG.DDS",
+      "size": 22369796,
+      "date": 132589068198001673
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-GAT-OBJECTS-COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068197872021
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-GLAS-DACH.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068117310615
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-GLAS-DACH.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068117230828
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-METAL-GALVA-ALBD.PNG.DDS",
+      "size": 87536,
+      "date": 132589068097041087
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-METAL-GALVA-ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068096961304
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-METAL-GALVA-COMP.PNG.DDS",
+      "size": 87556,
+      "date": 132589068099700933
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-METAL-GALVA-COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068099661042
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-METAL-GALVA-NORM.PNG.DDS",
+      "size": 87536,
+      "date": 132589068117629757
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GAT-OBJECTS/EDDS-METAL-GALVA-NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132589068117559950
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-LAMP-ALBEDO.PNG.DDS",
+      "size": 87536,
+      "date": 132589068252081387
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-LAMP-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068251991622
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-LAMP-EMISSIVE.PNG.DDS",
+      "size": 43832,
+      "date": 132589068263841395
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-LAMP-EMISSIVE.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068263781553
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-MAIN-ALBEDO.PNG.DDS",
+      "size": 5592560,
+      "date": 132589068258486930
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-MAIN-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068258387187
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-MAIN-RGB.PNG.DDS",
+      "size": 5592580,
+      "date": 132589068251782180
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-MAIN-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068251712365
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-ROOF-ALBEDO.PNG.DDS",
+      "size": 5592560,
+      "date": 132589068263522249
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-ROOF-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068263422516
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-SPRIRAL_STAIR-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068253816882
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-HANDLING/BVD-SPRIRAL_STAIR-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068253747076
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-MARKS-4K.PNG.DDS",
+      "size": 22369776,
+      "date": 132589068282910578
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GROUND-MARKS-4K.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068282701145
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-ANTENNA/EDDS-GS-ANTENNA-ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 132589068399518537
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-ANTENNA/EDDS-GS-ANTENNA-ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068399329046
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-ANTENNA/EDDS-GS-ANTENNA-COMB.PNG.DDS",
+      "size": 22369796,
+      "date": 132589068383100087
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-ANTENNA/EDDS-GS-ANTENNA-COMB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068382980112
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-ANTENNA/EDDS-GS-ANTENNA-LIT.PNG.DDS",
+      "size": 11184952,
+      "date": 132589068305092586
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-ANTENNA/EDDS-GS-ANTENNA-LIT.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068304933018
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-HOUSE/EDDS-GS-HOUSE-ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 132589068495091501
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-HOUSE/EDDS-GS-HOUSE-ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068494842168
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-HOUSE/EDDS-GS-HOUSE-COMB.PNG.DDS",
+      "size": 22369796,
+      "date": 132589068477769713
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-HOUSE/EDDS-GS-HOUSE-COMB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068477639773
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-HOUSE/EDDS-GS-HOUSE-LIT.PNG.DDS",
+      "size": 11184952,
+      "date": 132589068508099202
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-GS-HOUSE/EDDS-GS-HOUSE-LIT.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068507959572
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-GROUND-ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 132589068216381266
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-GROUND-ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068216301469
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-GROUND-COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132589068205561466
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-GROUND-COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068205521570
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-GROUND-NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068122262833
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-GROUND-NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132589068122163094
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-LOCALIZER/EDDS-ILS-LOCALIZER-ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 132589068510457947
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-LOCALIZER/EDDS-ILS-LOCALIZER-ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068510358219
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-LOCALIZER/EDDS-ILS-LOCALIZER-COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132589068518521457
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-LOCALIZER/EDDS-ILS-LOCALIZER-COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068518481062
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-LOCALIZER/EDDS-ILS-LOCALIZER-NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068519510588
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-ILS-LOCALIZER/EDDS-ILS-LOCALIZER-NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132589068519420834
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-LH-TECHNIK/ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132589068536005121
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-LH-TECHNIK/ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068535865489
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-CHIMNEY-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589068546135459
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-CHIMNEY-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068546045698
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-CHIMNEY-RGB.PNG.DDS",
+      "size": 349700,
+      "date": 132589068539893451
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-CHIMNEY-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068539856213
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-CRASHBARRIER-ALBEDO.PNG.DDS",
+      "size": 22000,
+      "date": 132589068546669126
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-CRASHBARRIER-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068546649170
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-DOWNPIPES-ALBEDO.PNG.DDS",
+      "size": 22000,
+      "date": 132589068546414716
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-DOWNPIPES-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068546334932
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-DOWNPIPES-RGB.PNG.DDS",
+      "size": 22020,
+      "date": 132589068545726921
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-DOWNPIPES-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068545687027
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-HALLS4TO6-ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132589068560946846
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-HALLS4TO6-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068560837139
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-HALLS7TO9-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068550218829
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-HALLS7TO9-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068550129081
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-HALLS7TO9-NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132589068542977016
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-HALLS7TO9-NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132589068542847366
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-ROLLUPDOORS-ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132589068562564208
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-ROLLUPDOORS-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068562534295
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-ROLLUPDOORS-EMISSIVE.PNG.DDS",
+      "size": 699192,
+      "date": 132589068548702235
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-ROLLUPDOORS-EMISSIVE.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068548612463
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-ROLLUPDOORS-RGB.PNG.DDS",
+      "size": 1398276,
+      "date": 132589068557306577
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-ROLLUPDOORS-RGB.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068557256717
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-ROOF-ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068541046568
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-ROOF-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068540946829
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-SMALLFLOODLIGHT-ALBEDO.PNG.DDS",
+      "size": 11064,
+      "date": 132589068547048104
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-SMALLFLOODLIGHT-ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068546958354
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-SMALLFLOODLIGHT-EMISSIVE.PNG.DDS",
+      "size": 22000,
+      "date": 132589068543276210
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-MAINTENANCE-HALLS/MAH-SMALLFLOODLIGHT-EMISSIVE.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068543256270
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-METAL-GALVANIZED2-1K-ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 132589068119609814
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-METAL-GALVANIZED2-1K-ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068119520056
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-METAL-GALVANIZED2-1K-COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132589068224240494
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-METAL-GALVANIZED2-1K-COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068224190331
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-METAL-GALVANIZED2-1K-NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068120746777
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-METAL-GALVANIZED2-1K-NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132589068120657016
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-PARKING-SPACE/AIRPORTPARKINGSPACE.PNG.DDS",
+      "size": 1398256,
+      "date": 132589068564469665
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-PARKING-SPACE/AIRPORTPARKINGSPACE.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068564379903
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-PAVEMENT-SQUARE-1K-ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 132589068206738458
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-PAVEMENT-SQUARE-1K-ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132589068206653624
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-PAVEMENT-SQUARE-1K-COMP.PNG.DDS",
+      "size": 1398276,
+      "date": 132589068214606002
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-PAVEMENT-SQUARE-1K-COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132589068214556138
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-RUNWAY-GUARD-LIGHT/EDDS-WIG-WAG-ALBEDO.PNG.DDS",
+      "size": 349680,
+      "date": 132589068565546804
+    },
+    {
+      "path": "scenery/world/TEXTURE/EDDS-RUNWAY-GUARD-LIGHT/EDDS-WIG-WAG-ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132589068565457055
     }
   ]
 }

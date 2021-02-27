@@ -4,11 +4,11 @@
   "title": "[EDDS] Manfred Rommel Airport Stuttgart",
   "manufacturer": "",
   "creator": "gravity",
-  "package_version": "0.2.0",
-  "minimum_game_version": "1.10.11",
+  "package_version": "0.3.1",
+  "minimum_game_version": "1.13.16",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 0.2.0 RELEASED JANUARY 1, 0\\nPatchnotes can be seen on \ngithub.com/gravity-EDDS/EDDS-freeware-releases/releases/tag/0.2",
+      "LastUpdate": "",
       "OlderHistory": ""
     }
   }
