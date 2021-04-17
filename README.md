@@ -1,3 +1,8 @@
+
+## Attention: Download has moved
+You can find the most recent version of the Stuttgart Airport on [Flightsim.to](https://flightsim.to/file/3437/stuttgart-airport-edds-by-gravity-edds-team).
+This repository won't get new versions in the future. Please use the link above.
+
 # Stuttgart (EDDS) Freeware Airport
 > Finally, a proper airport in the Ländle
 
@@ -10,7 +15,7 @@ If you experience any problems, have feature requests or any other types of impr
 
 ## Installation
 Please follow these instructions to add the airport to the simulator:
-1. Click here to download the files: [Download Stuttgart Airport](https://github.com/gravity-EDDS/EDDS-freeware-releases/releases/download/0.3/gravity-airport-edds-stuttgart.zip).
+1. Click here to download the files: [Download Stuttgart Airport](https://flightsim.to/file/3437/stuttgart-airport-edds-by-gravity-edds-team).
 
    You can also check the [releases](https://github.com/gravity-EDDS/EDDS-freeware-releases/releases) for other versions.
 2. Unzip the downloaded files.
